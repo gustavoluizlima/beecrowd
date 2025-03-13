@@ -14,4 +14,5 @@ O perímetro é simplesmente a soma dos três lados:
 𝑃 = 𝐴 + 𝐵 + 𝐶
 
 Se a condição for falsa você deve calcular a área de um trapézio utilizando A e B como base e C como altura:
+
 A = ((B+b)×h)/2
